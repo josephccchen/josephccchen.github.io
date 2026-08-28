@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: About me
 subtitle: Postdoc @UCLA | Postdoc @UCSF | PhD @University of Auckland 🇳🇿
 ---
