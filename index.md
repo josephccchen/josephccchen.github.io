@@ -4,10 +4,10 @@ title: About me
 subtitle: Postdoc @UCLA | Postdoc @UCSF | PhD @University of Auckland 🇳🇿
 ---
 
-_Kia ora!_
-_Ko maungakiekie te maunga_
-_Ko Waitematā te moana_
-_Ko Tāmaki ahau_
+_Kia ora!_  
+_Ko maungakiekie te maunga_  
+_Ko Waitematā te moana_  
+_Ko Tāmaki ahau_  
 _Ko Joseph tōku ingoa_
 
 Hello! I'm Joseph. I grew up in New Zealand where I completed my BSc, MSc, and PhD at the University of Auckland, New Zealand. In 2023, I started my postdoc at the University of California San Francisco. In 2026, I started my second postdoc at the University of California Los Angeles. I'm an aspiring almost-Nobel prize candidate and an almost-CNS-published neuroscientist.
